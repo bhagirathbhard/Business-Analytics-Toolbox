@@ -1,4 +1,4 @@
-gcloud compute --project=<PROJECT-ID> instances create micro\
+gcloud compute --project=ba775-a1-bhb instances create micro\
   --zone=us-central1-a\
   --machine-type=f1-micro\
   --image=debian-10-buster-v20200910\
